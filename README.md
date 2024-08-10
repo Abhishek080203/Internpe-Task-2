@@ -1,6 +1,10 @@
 ## 🚀Task 2 : E-Commerce Website 🚀
 
 Welcome to Footcap, where style meets comfort! Our website is designed to offer you a seamless shopping experience for premium footwear that will elevate your look. Whether you're looking for trendy sneakers, elegant heels, or comfortable everyday shoes, we've got you covered.
+
+## Live Demo :- https://abhishek080203.github.io/Internpe-Task-2/
+<br>
+
 ## Features
 
 - Wide Range of Styles: Explore our extensive collection of shoes for every occasion.
